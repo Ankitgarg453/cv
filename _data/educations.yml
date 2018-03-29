@@ -1,16 +1,21 @@
 - education:
-  degree: MSc in Computer Science
-  university: University of London
-  time: 2011 - 2012
-  details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  degree: B.Tech in Computer Science Engineering
+  university: Punjab Technical University
+  College: Chandigarh Engineering College, Landran
+  time: 2014 - 2018
+  details: "Computer engineering is a discipline that integrates fields of computer science required to 
+  develop computer hardware and software. Computer engineers usually have training in software design, and hardware–software
+  integration instead of only software engineering or electronic engineering."
 - education:
-  degree: BSc in Applied Mathematics
-  university: Bristol University
-  time: 2007 - 2011
-  details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  12th: Non-Medical with PCM
+  Board: CBSE Board
+  School: Rose Mary Convent School
+  time: 2013 - 2014
+  details: "A full time study course of five subjects- Physical Education, Mathematics, Physics, English, Chemistry in which three are must 
+  important- Physics, Chemistry, Mathematics for best of your knowledge."
+  - education:
+  10th: 10th Class 
+  Board: CBSE Board
+  School: Lord Rama Public School
+  time: 2011 - 2012
+  details: "Matric Class"
