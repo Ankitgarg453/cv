@@ -8,5 +8,25 @@
 		"link" : "",
 		"role" : "Developer",
 		"description" : "Advocate management."
+	},
+	{
+		"title" : "Blood Donation Site",
+		"skills" : "Python(DJango)",
+		"platform" : "Website",
+		"duration" : "January 2018",
+		"running" : true,
+		"link" : "",
+		"role" : "Developer",
+		"description" : "A site for blood donors and receivers. Receivers can take blood in emergency in any location with full details via messages."
+	},
+	{
+		"title" : "Resume Builder Site",
+		"skills" : "Python(DJango)",
+		"platform" : "Website",
+		"duration" : "January 2018",
+		"running" : true,
+		"link" : "",
+		"role" : "Developer",
+		"description" : "A online resume making website. Anyone can make resume by this site by updating just his/her data."
 	}
 ]
