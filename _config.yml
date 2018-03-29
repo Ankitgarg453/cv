@@ -1,6 +1,6 @@
 # Site Settings
 title: Ankit Resume
-url: 'http://webjeda.com'
+url: 'https://ankitgarg453.github.io'
 baseurl: '/online-cv' #change it according to your repository name
 about: True # set to False or comment line if you want to remove the "How to use?" in the sidebar
 
@@ -26,9 +26,8 @@ montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu
 email: garg.ankit59@gmail.com
 phone: 08591949557
 website: blog.webjeda.com #do not add http://
-linkedin: alandoe
+linkedin: Ankit Garg
 github: Ankitgarg453
-twitter: '@webjeda'
 #Update all the sections by editing the files inside _data folder.
 
 # uncomment the next line, if you want the education section displayed in main instead of the sidebar
