@@ -1,0 +1,17 @@
+{
+    "avatar" : "ankit.jpg",
+    "name" : "Ankit Garg",
+    "work" : "Software Engineer",
+    "address" : "House No. 17195, Street No. 2, Aggrawal Colory, Bhatti Road, Bathinda, Punjab",
+    "email" : "garg.ankit59@gmail.com",
+    "mobiles" : [
+        {
+            "country" : "in",
+            "number" : "+91-8591949557"
+        },
+        {
+            "country" : "in",
+            "number" : "+91-8847043512"
+        }
+    ]
+}

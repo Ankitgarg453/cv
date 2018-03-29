@@ -1,0 +1,20 @@
+[
+    {
+        "level" : "Bachelor's Degree",
+        "trade" : "Computer Science and Engineering",
+        "college" : "Chandigarh Engineering College, Landran, Mohali",
+        "duration" : "2014 - 2018"
+    },
+    {
+        "level" : "Intermediate (10+2)",
+        "trade" : "Intermediate in Science",
+        "college" : "Rose Marry Convent School, Bathinda, Punjab",
+        "duration" : "2013 - 2014"
+    },
+    {
+        "level" : "10th",
+        "trade" : "Matric",
+        "college" : "Lord Rama Public School, Bathinda, Punjab",
+        "duration" : "2012"
+    }
+]

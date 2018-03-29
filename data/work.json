@@ -1,0 +1,23 @@
+[
+    {
+        "role" : "Training",
+        "company" : "Tech-Live Solutions Pvt. Ltd, Mohali",
+        "duration" : "January 2018",
+        "current" : true,
+        "description" : ""
+    },
+    {
+        "role" : "Training",
+        "company" : "Banglore Computer Education, Bathinda",
+        "duration" : "June 2016 - July 2016",
+        "current" : false,
+        "description" : ""
+    },
+    {
+        "role" : "Training",
+        "company" : "Banglore Computer Education, Bathinda",
+        "duration" : "June 15 - July 15",
+        "current" : false,
+        "description" : ""
+    }
+]

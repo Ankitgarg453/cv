@@ -1,0 +1,38 @@
+[
+    {
+        "skill" : "C/C++",
+        "percent" : 65
+    },
+    {
+        "skill" : "Java Core",
+        "percent" : 50
+    },
+    {
+        "skill" : "HTML",
+        "percent" : 75
+    },
+    {
+        "skill" : "CSS",
+        "percent" : 20
+    },
+    {
+        "skill" : "SQL",
+        "percent" : 75
+    },
+    {
+        "skill" : "Python",
+        "percent" : 70
+    },
+    {
+        "skill" : "DJango",
+        "percent" : 70
+    },
+    {
+        "skill" : "Flask",
+        "percent" : 60
+    },
+    {
+        "skill" : "DB.SQLite3",
+        "percent" : 70
+    }
+]
